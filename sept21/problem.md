@@ -7,4 +7,4 @@ Complete the grid by re-entering the missing labels.
 The answer to this puzzle is the sum of the squares of the largest label in each row of the completed grid, as in the example.
 
 
-!(https://www.janestreet.com/puzzles/2021-09-01-knight-moves-4.png)
+![](https://www.janestreet.com/puzzles/2021-09-01-knight-moves-4.png)
